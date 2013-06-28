@@ -1,3 +1,9 @@
+WARNING WARNING DANGER WILL ROBINSON 
+====================================
+
+This gem is obsolete. http://githib.com/zeevex/evri_rpx is now the one being used for
+Zeevex development, especially that which is Rails 3 based.
+
 evri_rpx
 ========
 The `evri_rpx` library provides an wrapper around RPXNow's universal sign-on API. To learn more about this API, you can read up at [https://rpxnow.com/docs](https://rpxnow.com/docs)
